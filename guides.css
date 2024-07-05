@@ -1,0 +1,37 @@
+.guides-intro {
+    width: 50%;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.guides-main{
+    width: 50%;
+    margin-inline: auto;
+    
+}
+.recommended-list {
+    text-align: left;
+    margin-inline: auto;
+    width: 1000%;
+    display: flex;
+    flex-direction: column;
+}
+
+.recommended-list>a {
+    text-decoration: none;
+}
+
+.recommended-list>a:hover {
+    color: rgb(231, 139, 0);
+}
+
+.guide-intro-image {
+    height: 10rem;
+    aspect-ratio: 16/9;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+h4{
+    text-align: center;   
+}

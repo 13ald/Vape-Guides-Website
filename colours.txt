@@ -1,0 +1,6 @@
+DARK MODE
+background-color: rgb(38, 38, 38); 
+color: aliceblue;
+
+NAV
+color: rgb(197, 99, 1);
