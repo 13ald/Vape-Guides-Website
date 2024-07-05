@@ -72,8 +72,8 @@
     width: 40%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 4rem;
-    row-gap: 10px;
+
+    row-gap: .75rem;
 }
 
 .grid-img {

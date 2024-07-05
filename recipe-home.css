@@ -31,7 +31,7 @@
 }
 
 .starter-recipe {
-    font-size: 18px;
+    font-size: 1rem;
     margin-inline: auto;
     width: 20rem;
     display: flex;
@@ -40,7 +40,7 @@
     font-weight: 600;
     border: solid black 3px;
     border-radius: 1rem;
-    padding: 28px;
+    padding: 2rem;
     box-shadow: 5px 10px rgba(0, 0, 0, 0.795);
     
 }
